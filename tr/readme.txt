@@ -1,6 +1,5 @@
-Elevator Simulator
+Asansor Simulatoru
 
-The elevator loop will run asynchronously,
-and keyboard input will be accepted at all times.
+Asenkron sekilde asansor dongusu calisacak ve klavyeden her zaman girdi alinabilecek.
 
-The user will only be able to call the elevator and board passengers.
+Kullanici, asansoru sadece cagirabilir ve yolcu bindirebilir olacak.
